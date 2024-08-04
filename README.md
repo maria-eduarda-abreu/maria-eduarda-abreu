@@ -21,8 +21,11 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
- ### Clique aqui para ver meu Portifólio 
-https://maria-eduarda-abreu.github.io/portifolio/
+
+### Acesse meu portifólio
+
+ - [PORTIFÓLIO](https://maria-eduarda-abreu.github.io/portifolio/)
+
 
 ##
 
