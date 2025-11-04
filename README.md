@@ -1,75 +1,64 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>
+  <a href="https://github.com/maria-eduarda-abreu">
+     <img align="center" width="40px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+  </a>
+  <span>&nbsp;Olá! Meu nome é Maria Eduarda Abreu</span>
+</h1>
 
-###
+<br>
 
-<p align="left">My name is Maria Eduarda Abreu and I'm a developer, from Brasil</p>
+### 👩‍💻 Sobre mim
 
-###
+Sou Desenvolvedora de Software Fullstack, com foco principal no ecossistema **Java** e **Spring Boot**. 
+Atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na **FIAP**.
 
-<h2 align="left">About me</h2>
+🎯 Estou em busca da minha primeira oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, solucionar problemas e colaborar com equipes inovadoras.
 
-###
+🌱 No momento, estou focada em aprofundar meus conhecimentos em Spring Security, arquitetura de microsserviços e boas práticas de código limpo (Clean Code).
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java<br>🎯 Goals: start in a development internship position <br>🎲 Fun fact: It work on my machine </p>
+<br>
 
-###
-
-<a href="https://maria-eduarda-abreu.github.io/MariaEduardaAbreu/" style="color: blue;">
-  Meu Portfólio
+### 🌐 Conecte-se comigo
+<a href="https://www.linkedin.com/in/maria-eduarda-abreu/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maria--eduarda--abreu-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:contato.mariaeduardaabreu@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-contato.mariaeduardaabreu@gmail.com-D14836?style=flat-square&logo=gmail">
+</a>
+<a href="https://maria-eduarda-abreu.github.io/MariaEduardaAbreu/" target="_blank">
+  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-Acesse_aqui-purple?style=flat-square&logo=github">
 </a>
 
-###
+<br>
+<br>
 
+### 🛠️ Minhas Ferramentas e Tecnologias
 
-<h2 align="left">I code with</h2>
+<table>
+  <tr>
+    <td valign="top"><strong>Back-End</strong></td>
+    <td>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Front-End</strong></td>
+    <td>
+      <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Cloud & Banco de Dados</strong></td>
+    <td>
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="nextjs"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="SpringBoot"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angula"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle DB"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" height="40" alt="AWS" />
-  <img width="12" />
-  
-</div>
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maria-eduarda-abreu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maria-eduarda-abreu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maria-eduarda-abreu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-eduarda-abreu/maria-eduarda-abreu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria-eduarda-abreu/maria-eduarda-abreu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maria-eduarda-abreu/maria-eduarda-abreu/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+<br>
