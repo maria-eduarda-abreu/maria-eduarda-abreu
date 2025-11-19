@@ -1,15 +1,16 @@
 <h1>
-  <a href="https://github.com/maria-eduarda-abreu">
-     <img align="center" width="40px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+  <a href="https://maria-eduarda-abreu.github.io/MariaEduardaAbreu/" target="_blank">
+    <img align="center" width="2000px" src="https://github.com/maria-eduarda-abreu/imgsiconsrepository/blob/main/Group%201.png">
   </a>
-  <span>&nbsp;Olá! Meu nome é Maria Eduarda Abreu</span>
 </h1>
+
+<br>
 
 <br>
 
 ### 👩‍💻 Sobre mim
 
-Sou Desenvolvedora de Software Fullstack, com foco principal no ecossistema **Java** e **Spring Boot**. 
+Sou Desenvolvedora de Software Fullstack Jr, com foco principal no ecossistema **Java** e **Spring Boot**. 
 Atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na **FIAP**.
 
 🎯 Estou em busca da minha primeira oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, solucionar problemas e colaborar com equipes inovadoras.
@@ -57,6 +58,14 @@ Atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na *
     <td>
       <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>DevOps & Tools</strong></td>
+    <td>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     </td>
   </tr>
 </table>
