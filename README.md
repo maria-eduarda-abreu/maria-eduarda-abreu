@@ -8,18 +8,14 @@
 
 <br>
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
-Sou Desenvolvedora de Software Fullstack Jr, com foco principal no ecossistema **Java** e **Spring Boot**. 
-Atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na **FIAP**.
-
-🎯 Estou em busca da minha primeira oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, solucionar problemas e colaborar com equipes inovadoras.
-
-🌱 No momento, estou focada em aprofundar meus conhecimentos em Spring Security, arquitetura de microsserviços e boas práticas de código limpo (Clean Code).
+Sou Desenvolvedora de Software Fullstack Jr, meus estudos tem o foco principal no ecossistema **Java** e **Spring Boot**. 
+No momento, estou cursando o 4º semestre em Análise e Desenvolvimento de Sistemas pela **FIAP** e focada em aprofundar meus conhecimentos em Spring Security, arquitetura de microsserviços e boas práticas de código limpo (Clean Code).
 
 <br>
 
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 <a href="https://www.linkedin.com/in/maria-eduarda-abreu/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maria--eduarda--abreu-blue?style=flat-square&logo=linkedin">
 </a>
@@ -33,7 +29,7 @@ Atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na *
 <br>
 <br>
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### Minhas Ferramentas e Tecnologias
 
 <table>
   <tr>
